@@ -7,7 +7,7 @@ This document contains 100 HTML questions covering various concepts, theory, and
 - Each section is collapsible to make navigation easier.
 - Click on the section headers to expand and view the questions.
 - Use this as a study guide to review important HTML concepts.
-- 
+
 ## Table of Contents
 
 1. [Basic HTML](#basic-html)
@@ -26,7 +26,10 @@ This document contains 100 HTML questions covering various concepts, theory, and
 14. [Best Practices](#best-practices)
 15. [Advanced Topics](#advanced-topics)
 16. [Performance](#performance)
-<details>
+
+## Questions
+
+<details id="basic-html">
 <summary><strong>Basic HTML</strong></summary>
 
 1. What does HTML stand for?
@@ -42,7 +45,7 @@ This document contains 100 HTML questions covering various concepts, theory, and
 
 </details>
 
-<details>
+<details id="text-formatting">
 <summary><strong>Text Formatting</strong></summary>
 
 11. How do you create a paragraph in HTML?
@@ -58,7 +61,7 @@ This document contains 100 HTML questions covering various concepts, theory, and
 
 </details>
 
-<details>
+<details id="lists">
 <summary><strong>Lists</strong></summary>
 
 21. How do you create an unordered list in HTML?
@@ -69,7 +72,7 @@ This document contains 100 HTML questions covering various concepts, theory, and
 
 </details>
 
-<details>
+<details id="links-and-navigation">
 <summary><strong>Links and Navigation</strong></summary>
 
 26. How do you create an anchor link that jumps to a specific section within the same page?
@@ -80,7 +83,7 @@ This document contains 100 HTML questions covering various concepts, theory, and
 
 </details>
 
-<details>
+<details id="images">
 <summary><strong>Images</strong></summary>
 
 31. How do you embed an image in an HTML page?
@@ -91,7 +94,7 @@ This document contains 100 HTML questions covering various concepts, theory, and
 
 </details>
 
-<details>
+<details id="tables">
 <summary><strong>Tables</strong></summary>
 
 36. How do you create a table in HTML?
@@ -102,7 +105,7 @@ This document contains 100 HTML questions covering various concepts, theory, and
 
 </details>
 
-<details>
+<details id="forms">
 <summary><strong>Forms</strong></summary>
 
 41. How do you create a form in HTML?
@@ -118,7 +121,7 @@ This document contains 100 HTML questions covering various concepts, theory, and
 
 </details>
 
-<details>
+<details id="semantic-html">
 <summary><strong>Semantic HTML</strong></summary>
 
 51. What is semantic HTML?
@@ -134,7 +137,7 @@ This document contains 100 HTML questions covering various concepts, theory, and
 
 </details>
 
-<details>
+<details id="multimedia">
 <summary><strong>Multimedia</strong></summary>
 
 61. How do you embed a video in HTML?
@@ -145,7 +148,7 @@ This document contains 100 HTML questions covering various concepts, theory, and
 
 </details>
 
-<details>
+<details id="html5-new-features">
 <summary><strong>HTML5 New Features</strong></summary>
 
 66. What are some new features introduced in HTML5?
@@ -156,7 +159,7 @@ This document contains 100 HTML questions covering various concepts, theory, and
 
 </details>
 
-<details>
+<details id="html-attributes">
 <summary><strong>HTML Attributes</strong></summary>
 
 71. What are attributes in HTML?
@@ -167,7 +170,7 @@ This document contains 100 HTML questions covering various concepts, theory, and
 
 </details>
 
-<details>
+<details id="responsive-design">
 <summary><strong>Responsive Design</strong></summary>
 
 76. What is responsive design?
@@ -178,7 +181,7 @@ This document contains 100 HTML questions covering various concepts, theory, and
 
 </details>
 
-<details>
+<details id="accessibility">
 <summary><strong>Accessibility</strong></summary>
 
 81. What is web accessibility?
@@ -189,7 +192,7 @@ This document contains 100 HTML questions covering various concepts, theory, and
 
 </details>
 
-<details>
+<details id="best-practices">
 <summary><strong>Best Practices</strong></summary>
 
 86. What are some best practices for writing HTML?
@@ -200,7 +203,7 @@ This document contains 100 HTML questions covering various concepts, theory, and
 
 </details>
 
-<details>
+<details id="advanced-topics">
 <summary><strong>Advanced Topics</strong></summary>
 
 91. What is the DOM (Document Object Model)?
@@ -211,12 +214,13 @@ This document contains 100 HTML questions covering various concepts, theory, and
 
 </details>
 
-<details>
+<details id="performance">
 <summary><strong>Performance</strong></summary>
 
 96. How do you optimize the performance of an HTML page?
 97. What is lazy loading, and how do you implement it in HTML?
 98. How do you defer the loading of JavaScript files in HTML?
 99. What is the purpose of the `async` attribute in script tags?
+100. How do you reduce the number of HTTP requests in an HTML page?
 
 </details>
