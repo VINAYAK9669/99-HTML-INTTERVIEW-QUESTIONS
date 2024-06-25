@@ -221,6 +221,6 @@ This document contains 100 HTML questions covering various concepts, theory, and
 97. What is lazy loading, and how do you implement it in HTML?
 98. How do you defer the loading of JavaScript files in HTML?
 99. What is the purpose of the `async` attribute in script tags?
-100. How do you reduce the number of HTTP requests in an HTML page?
+
 
 </details>
